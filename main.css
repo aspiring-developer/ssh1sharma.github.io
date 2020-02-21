@@ -50,18 +50,34 @@ h3 {
   margin-bottom: 1rem;
 }
 .leftCol1, .midCol1, .rightCol1, .leftCol2, .midCol2, .rightCol2 {
-  Width: 33.33%;
+  Width: 30%;
   max-width: 100%;
   background-color: #f7f8e1;
   padding: 3rem;
   height: 500px;
   float: left;
   text-align: center;
- 
+  border: 1px solid #517764;
+  border-radius: 10px 10px 30px 30px;
+  margin: 2rem 1rem 0 2rem;
 }
+/*   
+}
+.leftCol1, .leftCol2 {
+  margin: 2rem 1rem 0 2rem;
+}
+.midCol1, .midCol2 {
+  margin: 2rem 1rem;
+  margin: 2rem 1rem 0 2rem;
+}
+.rightCol1, .rightCol2 {
+  margin: 2rem;
+  margin-left: 1rem;
+  margin: 2rem 1rem 0 2rem;
+} */
 
 footer {
-color: #517764;
+color: #517764; 
 font-weight:100;
 font-size: .7rem;
 background-color: #eeeff1;
