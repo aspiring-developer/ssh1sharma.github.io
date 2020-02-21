@@ -1,0 +1,67 @@
+.mainWrapper {
+margin: 0 auto;
+background: #f9fcef;
+}
+
+header {
+padding: 2rem 4rem;;
+background-color: #eeeff1
+}  
+
+header h1 {
+font-family: Roboto;
+font-size: 3rem; 
+color: #5a5858;
+font-weight: 900;
+}
+header span {
+  font-family: 'lato', sans-serif;
+  font-family: Roboto;
+  font-size: 2.2rem; 
+  color: #517764;
+  font-weight:600;
+  }
+
+header p {
+color: #516977;
+font-family: 'Courgette', cursive;
+font-size: 1.35rem;
+}
+nav ul {
+list-style-type: none;
+text-align: right;
+}
+nav ul li {
+  display: inline-block;
+  margin-left: 2rem;
+  }
+nav ul li a {
+  text-decoration: none;
+  color: #516977;
+  
+}
+
+p {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 1.2rem;
+line-height: 1.5;
+}
+.leftCol1, .midCol1, .rightCol1, .leftCol2, .midCol2, .rightCol2 {
+  Width: 33.33%;
+  max-width: 100%;
+  background-color: #f7f8e1;
+  padding: 2em;
+  height: 500px;
+  float: left;
+ 
+}
+
+footer {
+color: #517764;
+font-weight:100;
+font-size: .7rem;
+background-color: #eeeff1;
+padding: 2.5rem;
+text-align:  center;
+clear: both;
+}
