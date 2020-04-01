@@ -1,2 +1,2 @@
 # ssh1sharma.github.io
-Another repository for GitHub Pages prctice.
+GitHub Pages repository to publish web pages.
