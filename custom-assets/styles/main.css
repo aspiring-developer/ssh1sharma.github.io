@@ -92,6 +92,19 @@ p {
 	height: 100%;
 }
 
+.LinkedInIcon {
+	font-size: 1rem;
+}
+.gitHubIcon {
+	font-size: 1rem;
+}
+.faceBookIcon {
+	font-size: 1rem;
+}
+.youtubeIcon {
+	font-size: 1rem;
+}
+
 /* ############################## */
 
 /* Web-Development Page */
@@ -358,6 +371,18 @@ color: #F16529;
 	}
 	.navbar-toggler-icon {
 		font-size: 1.4rem;
+	}
+	.LinkedInIcon {
+		font-size: 1.2rem;
+	}
+	.gitHubIcon {
+		font-size: 1.2rem;
+	}
+	.faceBookIcon {
+		font-size: 1.2rem;
+	}
+	.youtubeIcon {
+		font-size: 1.2rem;
 	}
 }
 
