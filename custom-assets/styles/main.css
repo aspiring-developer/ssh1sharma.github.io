@@ -596,16 +596,16 @@ color: #F16529;
 	header img {
 		margin: 1.5rem 0;
 	}
-	.LinkedInIcon {
+	.socialIcons .fa-linkedin {
 		font-size: 2.9rem;
 	}
-	.gitHubIcon {
+	.socialIcons .fa-github-square {
 		font-size: 2.9rem;
 	}
-	.faceBookIcon {
+	.socialIcons .fa-facebook-square {
 		font-size: 2.9rem;
 	}
-	.youtubeIcon {
+	.socialIcons .fa-youtube {
 		font-size: 2.9rem;
 	}
 }
