@@ -93,16 +93,16 @@ p {
 }
 
 .LinkedInIcon {
-	font-size: 1rem;
+	font-size: 1.5rem;
 }
 .gitHubIcon {
-	font-size: 1rem;
+	font-size: 1.5rem;
 }
 .faceBookIcon {
-	font-size: 1rem;
+	font-size: 1.5rem;
 }
 .youtubeIcon {
-	font-size: 1rem;
+	font-size: 1.5rem;
 }
 
 /* ############################## */
@@ -334,6 +334,18 @@ color: #F16529;
 	.btn {
 		font-size: 0.9rem;
 	}
+	.LinkedInIcon {
+		font-size: 1.8rem;
+	}
+	.gitHubIcon {
+		font-size: 1.8rem;
+	}
+	.faceBookIcon {
+		font-size: 1.8rem;
+	}
+	.youtubeIcon {
+		font-size: 1.8rem;
+	}
 }
 
 /* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
@@ -373,16 +385,16 @@ color: #F16529;
 		font-size: 1.4rem;
 	}
 	.LinkedInIcon {
-		font-size: 1.2rem;
+		font-size: 2.2rem;
 	}
 	.gitHubIcon {
-		font-size: 1.2rem;
+		font-size: 2.2rem;
 	}
 	.faceBookIcon {
-		font-size: 1.2rem;
+		font-size: 2.2rem;
 	}
 	.youtubeIcon {
-		font-size: 1.2rem;
+		font-size: 2.2rem;
 	}
 }
 
@@ -472,6 +484,18 @@ color: #F16529;
 		max-width: 100%;
 		height: auto;
 	}
+	.LinkedInIcon {
+		font-size: 2.4rem;
+	}
+	.gitHubIcon {
+		font-size: 2.4rem;
+	}
+	.faceBookIcon {
+		font-size: 2.4rem;
+	}
+	.youtubeIcon {
+		font-size: 2.4rem;
+	}
 }
 
 /* Extra large devices (large desktops, 1440px and up) */
@@ -519,16 +543,16 @@ color: #F16529;
 		font-size: 1.5rem;
 	}
 	.LinkedInIcon {
-		font-size: 1.5rem;
+		font-size: 2.6rem;
 	}
 	.gitHubIcon {
-		font-size: 1.5rem;
+		font-size: 2.6rem;
 	}
 	.faceBookIcon {
-		font-size: 1.5rem;
+		font-size: 2.6rem;
 	}
 	.youtubeIcon {
-		font-size: 1.5rem;
+		font-size: 2.6rem;
 	}
 }
 
@@ -571,5 +595,17 @@ color: #F16529;
 	/* Not-common; only this portfolio site specific */
 	header img {
 		margin: 1.5rem 0;
+	}
+	.LinkedInIcon {
+		font-size: 2.9rem;
+	}
+	.gitHubIcon {
+		font-size: 2.9rem;
+	}
+	.faceBookIcon {
+		font-size: 2.9rem;
+	}
+	.youtubeIcon {
+		font-size: 2.9rem;
 	}
 }
