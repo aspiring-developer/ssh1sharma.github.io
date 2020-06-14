@@ -596,28 +596,16 @@ color: #F16529;
 	header img {
 		margin: 1.5rem 0;
 	}
-	/* .socialIcons .fa-linkedin {
+	.LinkedInIcon {
 		font-size: 2.9rem;
 	}
-	.socialIcons .fa-github-square {
+	.gitHubIcon {
 		font-size: 2.9rem;
 	}
-	.socialIcons .fa-facebook-square {
+	.faceBookIcon {
 		font-size: 2.9rem;
 	}
-	.socialIcons .fa-youtube {
-		font-size: 2.9rem;
-	} */
-	.socialIcons .LinkedInIcon {
-		font-size: 2.9rem;
-	}
-	.socialIcons .gitHubIcon {
-		font-size: 2.9rem;
-	}
-	.socialIcons .faceBookIcon {
-		font-size: 2.9rem;
-	}
-	.socialIcons .youtubeIcon {
+	.youtubeIcon {
 		font-size: 2.9rem;
 	}
 
