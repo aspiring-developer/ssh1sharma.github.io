@@ -104,6 +104,9 @@ p {
 .youtubeIcon {
 	font-size: 1.5rem;
 }
+.LinkedInIcon:hover, .gitHubIcon:hover, .faceBookIcon:hover, .youtubeIcon:hover  {
+opacity: .8
+}
 
 /* ############################## */
 
