@@ -493,6 +493,18 @@ color: #F16529;
 	.aboutPageIcons {
 		font-size: 1.5rem;
 	}
+	.LinkedInIcon {
+		font-size: 1.5rem;
+	}
+	.gitHubIcon {
+		font-size: 1.5rem;
+	}
+	.faceBookIcon {
+		font-size: 1.5rem;
+	}
+	.youtubeIcon {
+		font-size: 1.5rem;
+	}
 }
 
 /* Extra-Extra large devices (large tvs etc, 1920px and up) */
